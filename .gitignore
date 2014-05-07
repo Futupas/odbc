@@ -1,0 +1,4 @@
+/ODBC/ODBC/bin/
+/ODBC/ODBC/obj/
+*.exe
+*.pdb
